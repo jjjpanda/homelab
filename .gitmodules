@@ -1,0 +1,6 @@
+[submodule "setup"]
+	path = setup
+	url = https://github.com/jjjpanda/setup.sh.git
+[submodule "sm-t280"]
+	path = sm-t280
+	url = https://github.com/jjjpanda/sm-t280.git
